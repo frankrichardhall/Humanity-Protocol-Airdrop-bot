@@ -1,6 +1,5 @@
 # Humanity Protocol Airdrop bot
 A Human-Centric Blockchain. Testnet now live.
-
 Tool or script designed to automate the process of claiming airdrops from the Humanity Protocol on a daily basis.
 
 ## Requirements
