@@ -45,3 +45,4 @@ Tool or script designed to automate the process of claiming airdrops from the Hu
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+ 
